@@ -1,0 +1,25 @@
+/*
+* Grace Berenato
+* 8 March 2019
+* Table Classwork
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    
+}
+
+table {border-collapse: collapse;}
+
+table, td, th { border: 1px solid blue; }
+    
+thead {background-color: darkseagreen;}
+
+tfoot {background-color: beige;}
